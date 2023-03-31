@@ -1,6 +1,6 @@
 Name:		texlive-skeldoc
 Version:	57922
-Release:	1
+Release:	2
 Summary:	Placeholders for unfinished documents
 Group:		Publishing
 URL:		http://www.ctan.org/tex-archive/macros/latex/contrib/skeldoc
