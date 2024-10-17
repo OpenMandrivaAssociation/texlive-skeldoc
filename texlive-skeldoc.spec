@@ -3,7 +3,7 @@ Version:	57922
 Release:	2
 Summary:	Placeholders for unfinished documents
 Group:		Publishing
-URL:		http://www.ctan.org/tex-archive/macros/latex/contrib/skeldoc
+URL:		https://www.ctan.org/tex-archive/macros/latex/contrib/skeldoc
 License:	mit
 Source0:	http://mirrors.ctan.org/systems/texlive/tlnet/archive/skeldoc.r%{version}.tar.xz
 Source1:	http://mirrors.ctan.org/systems/texlive/tlnet/archive/skeldoc.doc.r%{version}.tar.xz
